@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/sathya.png "Header")](https://some-url.dev/)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 Your limitation—it's only your imagination.
@@ -70,6 +73,8 @@ Your limitation—it's only your imagination.
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psathyanarayan&show_icons=true&theme=vue)](https://github.com/psathyanarayan/github-readme-stats)
+
+
 
 
 [website]: https://psathyanarayan.tech/index.html
