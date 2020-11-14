@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/psathyanarayan/psathyanarayan/sathya.png "Header")]()
+[![P Sathya Narayan Header](https://github.com/psathyanarayan/psathyanarayan/blob/main/sathya.png)]()
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
