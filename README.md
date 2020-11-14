@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Your limitation—it's only your imagination.
 
-- 🔭 I’m currently working on 
+- [<img align="left" alt="microsoft" width="22px" src="https://image.flaticon.com/icons/png/512/732/732221.png"/>]I’m currently a Microsoft Learn Student Ambassador 
 - 🌱 I’m currently learning Competitive programming
 - 👯 I’m looking to collaborate on Web-development,Python,Android developemnt
 - 🤔 I’m looking for help with Competitive programming
