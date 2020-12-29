@@ -20,6 +20,9 @@ Your limitation—it's only your imagination.
 [<img align="left" alt="sathyanmbpk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="psathyanarayan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sathyanarayanp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://dev.to/psathyanarayan">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="P Sathya Narayan's DEV Profile" height="30" width="30">
+</a> 
 <br />
 
 
