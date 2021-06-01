@@ -1,10 +1,37 @@
-[![P Sathya Narayan Header](https://github.com/psathyanarayan/psathyanarayan/blob/main/sathya.png)]()
+<p align="center">
+<a  href="#"><img  width="50%" height="auto" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" height="175px"/></a>
+<h1 align="center">Hello, folks!, I'm <a href="#">P Sathya Narayan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> </h1></p>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+  
+  
+
+<h3 align="center">Your limitation—it's only your imagination.</h3>
+
+<p align="center">
+ <a href="https://www.youtube.com/channel/UCDGTokzPyrZDkTCNfRXbxag">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCDGTokzPyrZDkTCNfRXbxag&key=AIzaSyDFqNNA4KmVn7Nbz9ocVs1A0_1f3Gb9FWM&label=Views&style=for-the-badge&color=red&labelColor=ce4630&"/>
+</a>
+
+<div align="center">
+        <a href="https://twitter.com/sathyanmbpk" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="http://linkedin.com/in/p-sathya-narayan" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:sathyanmbpk@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://medium.com/@sathyanmbpk" target="_blank"><img alt="Medium"
+                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> </div>
 
 
+<br>
 
-Your limitation—it's only your imagination.
+
+--- 
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psathyanarayan&" alt="psathyanarayan" /></p>
+
+<h2>A Little about me</h3>
 
 - [<img align="left" alt="microsoft" width="19px" src="https://image.flaticon.com/icons/png/512/732/732221.png"/>]()I’m currently a Microsoft Learn Student Ambassador 
 - 🌱 I’m currently learning Competitive programming
@@ -12,7 +39,6 @@ Your limitation—it's only your imagination.
 - 🤔 I’m looking for help with Competitive programming
 - 💬 Ask me about Python
 - ⚡ Fun fact: Like my name I am honest with my words and work
-
 ### Connect with me:
 
 [<img align="left" alt="psathyanarayan.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -24,21 +50,10 @@ Your limitation—it's only your imagination.
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="P Sathya Narayan's DEV Profile" height="30" width="30">
 </a> 
 <br />
+ 
 
-
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]()
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Qwiklabs" width="26px" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png" />]()
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <br />
 <br />
 
@@ -61,11 +76,8 @@ Your limitation—it's only your imagination.
 
 ### 📕 Latest Blog Posts
 
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Eye of a modern AI](https://medium.com/@sathyanmbpk/eye-of-a-modern-ai-aee4f6d7ce5e)
-- [Hmmm It’s my windows](https://medium.com/@sathyanmbpk/hmmm-its-my-windows-f9f9c944b770)
-- [COINCIDENCE BETWEEN LEGENDS](https://psathyanarayan.tech/blog1.html)
-- [WHAT IS LOVE TO TECH?](https://psathyanarayan.tech/blog2.html)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -77,7 +89,9 @@ Your limitation—it's only your imagination.
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psathyanarayan&show_icons=true&theme=vue)](https://github.com/psathyanarayan/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=psathyanarayan&label=Profile%20views&color=0e75b6&style=flat" alt="psathyanarayan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psathyanarayan" alt="psathyanarayan" /></a> </p>
 
 
 [website]: https://psathyanarayan.tech/index.html
