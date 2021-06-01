@@ -78,6 +78,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a VM in Azure](https://sathyanmbpk.medium.com/how-to-create-a-vm-in-azure-ad75821fc1e5?source=rss-f12a376883a2------2)
+- [FROM WHERE TECHNOLOGY EMERGE ??](https://sathyanmbpk.medium.com/from-where-technology-emerge-f856d64cf81b?source=rss-f12a376883a2------2)
+- [ML and AL](https://sathyanmbpk.medium.com/ml-and-al-44baaae6d2?source=rss-f12a376883a2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
