@@ -78,6 +78,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Taste of IoT](https://sathyanmbpk.medium.com/taste-of-iot-e05a74b85bf?source=rss-f12a376883a2------2)
 - [How to create a VM in Azure](https://sathyanmbpk.medium.com/how-to-create-a-vm-in-azure-ad75821fc1e5?source=rss-f12a376883a2------2)
 - [FROM WHERE TECHNOLOGY EMERGE ??](https://sathyanmbpk.medium.com/from-where-technology-emerge-f856d64cf81b?source=rss-f12a376883a2------2)
 - [ML and AL](https://sathyanmbpk.medium.com/ml-and-al-44baaae6d2?source=rss-f12a376883a2------2)
