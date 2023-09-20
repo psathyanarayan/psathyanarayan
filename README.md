@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=psathyanarayan&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=psathyanarayan&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=psathyanarayan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=psathyanarayan&theme=github-compact)](https://github.com/psathyanarayan/github-readme-activity-graph)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psathyanarayan/psathyanarayan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psathyanarayan/psathyanarayan/output/github-contribution-grid-snake.svg">
